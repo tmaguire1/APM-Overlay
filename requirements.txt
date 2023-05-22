@@ -1,0 +1,6 @@
+keyboard==0.13.5
+mouse==0.7.1
+pip==23.0.1
+setuptools==66.0.0
+six==1.16.0
+wheel==0.38.4
